@@ -1,7 +1,7 @@
 {
-    "name": "ɴɪʜᴀʟダᴍᴜsɪᴄ",
+    "name": "Asʜɪsʜダᴍᴜsɪᴄ",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://telegra.ph/file/796383c3e147effe16656.jpg",
+    "logo": "https://graph.org/file/5fc8dd23ea909c8818e65.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -50,7 +50,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ɴɪʜᴀʟ ダ ᴍᴜsɪᴄ",
+        "value": "Asʜɪsʜダᴍᴜsɪᴄ",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
@@ -100,12 +100,12 @@
       },
       "SUPPORT_GROUP": {
         "description": "Link of your support group ! Channel ki id mat daal dena bsdk.",
-        "value": "https://t.me/+qX4DpUpNzv05NTY9",
+        "value": "https://t.me/MUSICBOT_OWNER",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Link of your telegram channel.",
-        "value": "https://t.me/AboutNihal",
+        "value": "https://t.me/BWF_MUSIC1",
         "required": false
       }
     },
