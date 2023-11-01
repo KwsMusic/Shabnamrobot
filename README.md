@@ -17,7 +17,7 @@
 <h2 align="center">
     ─「 Asʜɪsʜ...ᴍᴜsɪᴄ 」─
 
-★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
+★ 𝙷𝙴𝚁𝙾𝙺𝚄 + L2R ★
 </h2>
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&width=420&lines=♦𝙳𝙴𝙿𝙻𝙾𝚈+𝙾𝙽+𝙷𝙴𝚁𝙾𝙺𝚄♦;♨️+𝙽𝙾+𝙷𝙴𝚁𝙾𝙺𝚄+𝙱𝙰𝙽+𝙸𝚂𝚂𝚄𝙴+𝙰𝙻𝚂𝙾+𝚅𝙿𝚂+𝙳𝙴𝙿𝙻𝙾𝚈+📍+𝙿𝚁𝙴𝚂𝙴𝙽𝚃;🎭+𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈+𝐓𝐇𝐄+𝐿2𝙍+𝗢𝙒𝗡𝐄𝐑+🎭">
 <p align="center">
@@ -37,7 +37,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ashishking2006/ASHISHROBOT.git"> <img src="https://github.com/DAXXSIR/DAXXMUSIC/blob/master/AnonX/assets/1693819253886.png" width="620" height="198.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/ashishking2006/BWF_MUSIC_BOT"> <img src="https://github.com/ashishking2006/BWF_MUSIC_BOT.git/blob/master/AnonX/assets/1693819253886.png" width="620" height="198.45"/></a></p>
 
 
 
@@ -55,7 +55,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/ashishking2006/ASHISHROBOT/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/ashishking2006/BWF_MUSIC_BOT.git/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -67,7 +67,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/DAXXSIR/DAXXMUSIC && cd DAXXMUSIC`
+`git clone https://github.com/ashishking2006/BWF_MUSIC_BOT && cd DAXXMUSIC`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
