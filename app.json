@@ -1,7 +1,7 @@
 {
     "name": "❛-Asʜɪsʜ᭄ [🚩] Ɽoboʈ 🎸",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://te.legra.ph/file/063bfeff0efdbd87fb103.jpg",
+    "logo": "https://i.postimg.cc/QMt2kYS5/20231117-233101.png",
     "keywords": [
     "python3",
     "telegram",
@@ -29,7 +29,7 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://Krishna:pss968048@cluster0.4rfuzro.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
