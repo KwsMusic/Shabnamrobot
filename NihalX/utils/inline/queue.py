@@ -15,7 +15,7 @@ def queue_markup(
         [
             InlineKeyboardButton(
                 text=_["QU_B_1"],
-                callback_data=f"GetQueued {🦋CPLAY}|{videoid}",
+                callback_data=f"GetQueued {CPLAY}|{videoid}",
             ),
             InlineKeyboardButton(
                 text=_["CLOSEMENU_BUTTON"],
@@ -41,7 +41,9 @@ def queue_markup(
             ),
         ],
     ]
-    upl = InlineKeyboardMarkup(not_dur if DURATION == "Unknown" else dur)
+    upl = InlineKeyboardMarkup(
+        not_dur if DURATION == "Unknown" else dur
+    )
     return upl
 
 
@@ -51,11 +53,11 @@ def queue_back_markup(_, CPLAY):
             [
                 InlineKeyboardButton(
                     text=_["BACK_BUTTON"],
-                    callback_data=f"queue_back_timer {🦋CPLAY}",
+                    callback_data=f"queue_back_timer {CPLAY}",
                 ),
                 InlineKeyboardButton(
                     text=_["CLOSE_BUTTON"],
-                    callback_data="🦋close🦋",
+                    callback_data="close",
                 ),
             ]
         ]
