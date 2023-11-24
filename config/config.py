@@ -22,12 +22,12 @@ SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "180")
 )
 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001825499105"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1001822336951"))
 
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "Asʜɪsʜダᴍᴜsɪᴄ​")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "926151330").split())
+    map(int, getenv("OWNER_ID", "6052880487").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -36,7 +36,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ashishking2006/BWF_MUSIC_BOT",
+    "https://github.com/KwsMusic/Shabnamrobot",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -103,11 +103,11 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "https://i.postimg.cc/QtJ5MjNN/20231117-233810.png")
+START_IMG_URL = getenv("START_IMG_URL", "https://i.postimg.cc/sDtyNnZH/20231123-232120.png")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://i.postimg.cc/QMt2kYS5/20231117-233101.png",
+    "https://i.postimg.cc/sDtyNnZH/20231123-232120.png",
 )
 
 PLAYLIST_IMG_URL = getenv(
